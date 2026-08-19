@@ -14,7 +14,7 @@ students = []
 n = int(input("Enter number of students: "))
 
 for i in range(1,n+1):
-    print(f"\nEnter details of Student{i}")
+    print(f"Enter details of Student{i}")
     name = input("Enter your name: ")
     id = input("Enter your ID: ")
     course = input("Enter your course: ")
